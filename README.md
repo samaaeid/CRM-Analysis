@@ -1,4 +1,5 @@
 # CRM-Analysis
+This dataset contains information about the CRM campaigns sent to customers through multiple channels, including EMAIL, PUSH NOTIFICATIONS, IN-APP MESSAGES, and SMS. The data encompasses a specified date range and provides relevant metrics for each channel. Understanding campaign performance across these channels is crucial for optimizing marketing strategies and enhancing customer engagement.
 
 ## Steps of analysis
 
